@@ -1,7 +1,7 @@
 # Data Sciece Desafío de Tripulaciones
 ![img](./img/Step%20By%20Step%20Decluttering%20Process%20Graph%20Instagram%20Post%20(1).jpg)
 
-### El desafío de tripulaciones trataba de dar una solución a los problemas que puede atravesar un turistao que viene a Madrid en épocas y momentos de mucho calor.  
+# El desafío de tripulaciones trataba de dar una solución a los problemas que puede atravesar un turista que viene a Madrid en épocas y momentos de mucho calor.  
 
 ## 1. Recopilación de datos. 
 * Para ello primero debíamos de recopilar datos de temperaturas y de servicios que pueden ser utilizados por turistas en este tipo de situaciones de mucho calor.
