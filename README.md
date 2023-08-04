@@ -18,7 +18,7 @@ Toda la información recopilada pertenece a la [API del Ayuntamiento de Madrid](
 
 ## 4. Despliegue de la API.
 Para ello planeamos tener tres endpoints en la misma [API](https://github.com/Kuja182/desafio_data/tree/main/API_temperaturas) para que se pudieran nutrir de ella el equipo de FullStack.  
-En un principio iba a estar alojada en un servidor de AWS, pero después de muchos error y problemas con la página lo decidimos lanzarla en [pythoneverywhere](https://www.pythonanywhere.com/).
+En un principio iba a estar alojada en un servidor de AWS, pero después de muchos error y problemas con la página lo decidimos lanzarla en [pythonanywhere](https://www.pythonanywhere.com/).
 * Predicción de temperaturas:  
 v1/predict - Con ella accedemos con una entrada de año,mes,día y hora a una futura predicción de la temperatura, la cual elegirá el turista dentro de la APP.
 * Temperatura actual:  
